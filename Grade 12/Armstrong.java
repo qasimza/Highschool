@@ -1,3 +1,5 @@
+//Program to recursively check if a number is Armstrong.An armstrong number is an integer such that the sum of the cubes of its digits is equal to the number itself.
+
 import java.util.*;
 class Armstrong
 {
