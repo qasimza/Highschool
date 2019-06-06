@@ -1,3 +1,4 @@
+//Program to recursively remove adjacent duplicates in a string
 import java.util.*;
 class Adjacent
 {
