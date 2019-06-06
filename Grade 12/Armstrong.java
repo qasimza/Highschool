@@ -12,7 +12,7 @@ class Armstrong
         int num=sc.nextInt();
         sc.close();
         n=num;
-        System.out.println(check (num));
+        System.out.println(check(num)?"Armstrong Number":"Not an Armstrong Number");
     }
     public static boolean check(int x)
     {
@@ -27,11 +27,8 @@ class Armstrong
         else
         {
             int d=x%10;
-            System.out.println(d);
             s=s+d*d*d;
-            System.out.println(s);
             x=x/10;
-            System.out.println(x);
             return check(x);
         }
     }
