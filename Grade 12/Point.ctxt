@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment1.params=r1\ r2
+comment1.target=double\ distance(Point,\ Point)
+comment2.params=a\ b\ c
+comment2.target=double\ perimeter(double,\ double,\ double)
+comment3.params=a\ b\ c
+comment3.target=double\ area(double,\ double,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
