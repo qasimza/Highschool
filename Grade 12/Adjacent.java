@@ -31,6 +31,7 @@ class Adjacent
             {
                 if(s.charAt(i)==s.charAt(i+1))
                 {
+                    str = str+s.charAt(i);
                     while(s.charAt(i)==s.charAt(i+1)&&i<s.length()-2)
                     {
                         i++;
