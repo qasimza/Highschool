@@ -1,3 +1,14 @@
+/*
+Progarm to generate a Bell Triangle
+
+Definintion: 
+Bell Triangle (aka Aitken's array / Peirce triangle).
+Number triangle obtained by beginning the first row with the number one, 
+and beginning subsequent rows with last number of the previous row. 
+Rows are filled out by adding the number in the preceding column to the number above it
+*/
+
+
 import java.util.*;
 class BellTriangle
 {
