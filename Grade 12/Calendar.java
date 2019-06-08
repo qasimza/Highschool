@@ -1,3 +1,5 @@
+//Program to output the day week for a given date. Program assumes valid date input.
+
 import java.util.*;
 
 class Calendar
